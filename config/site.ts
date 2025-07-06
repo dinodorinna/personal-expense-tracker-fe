@@ -21,8 +21,12 @@ export const siteConfig = {
       href: "/blog",
     },
     {
-      label: "About",
+      label: "All",
       href: "/about",
+    },
+    {
+      label: "All Transaction",
+      href: "/transactions",
     },
   ],
   navMenuItems: [
